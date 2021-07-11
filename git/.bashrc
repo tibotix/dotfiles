@@ -1,0 +1,11 @@
+alias gap='git add -p'
+alias ga='git add'
+alias gc='git commit -S'
+alias gs='git status'
+alias gss='git status -s'
+alias gl='git log'
+alias gll='git log --oneline'
+alias gd='git diff'
+alias gt='git tag -n'
+alias gta='git tag -s -a'
+
