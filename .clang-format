@@ -43,7 +43,7 @@ JavaScriptWrapImports: 'true'
 KeepEmptyLinesAtTheStartOfBlocks: 'false'
 Language: Cpp
 MaxEmptyLinesToKeep: '4'
-NamespaceIndentation: All
+NamespaceIndentation: None
 ObjCBlockIndentWidth: '4'
 ObjCSpaceAfterProperty: 'false'
 ObjCSpaceBeforeProtocolList: 'false'
